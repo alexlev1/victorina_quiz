@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+  <question minutes="1">
+    <text>Сколько байт в килобайте?</text>
+    <variants>
+      <variant>1000</variant>
+      <variant>2048</variant>
+      <variant right="true">1024</variant>
+      <variant>512</variant>
+    </variants>
+  </question>
+  <question minutes="1">
+    <text>В каком году придумали язык Ruby?</text>
+    <variants>
+      <variant>1994</variant>
+      <variant right="true">1995</variant>
+      <variant>1996</variant>
+      <variant>1997</variant>
+    </variants>
+  </question>
+  <question minutes="1">
+    <text>Кто автор фреймворка Ruby on Rails?</text>
+    <variants>
+      <variant>Сэнди Метц</variant>
+      <variant>Юкихиро Мацумото</variant>
+      <variant>Грэди Бутч</variant>
+      <variant right="true">Давид Хейнемейер Ханссон</variant>
+    </variants>
+  </question>
+</questions>
